@@ -14,7 +14,7 @@ To build the world’s biggest AI company, and to show that self-made developers
 
 > "Skill > Degree. Execution > Excuses."
 
----
+--
 
 🧠 Follow my daily updates on [LinkedIn](#) 
 ⭐ Star this repo if you're also on a journey to master AI!
